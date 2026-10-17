@@ -1,0 +1,6 @@
+{
+  "name": "ClanOps - Gaming Clan & Ablauf-Planer",
+  "description": "Ablauf-, Aufgaben- und Ressourcen-Planer für Gaming-Clans und Koop-Gruppen mit Quoten-Tracking, Rollenverwaltung und Vorlagen für Survival-Games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
